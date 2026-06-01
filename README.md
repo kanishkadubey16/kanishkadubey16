@@ -70,10 +70,7 @@ Car comparison platform helping users compare specifications and features.
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanishkadubey16\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkadubey16\&layout=compact\&theme=github_dark\&hide_border=true)
-
+![Profile Views](https://komarev.com/ghpvc/?username=kanishkadubey16&color=blue)
 ---
 
 ## 🔥 GitHub Streak
