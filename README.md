@@ -1,192 +1,100 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kanishka%20Dubey&fontSize=55&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Kanishka%20Dubey&fontSize=50&fontAlignY=40"/>
 
-# 🚀 Full Stack Developer | AI Engineer | ML Enthusiast
+# Hi 👋 I'm Kanishka Dubey
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications;Full+Stack+Developer;RAG+%7C+LangChain+%7C+OpenAI;React+%7C+Node.js+%7C+MongoDB;Competitive+Programmer;Always+Learning+Something+New"/>
+### Full Stack Developer • AI Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Full+Stack+Developer;RAG+%7C+LangChain+%7C+OpenAI;React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Products" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-🎓 B.Tech Artificial Intelligence Student
-
-🏫 Newton School of Technology, Rishihood University
-
-🤖 Passionate about AI, Machine Learning, LLMs and Intelligent Systems
-
-🌐 Full Stack Developer building scalable web applications
-
-💡 Interested in RAG Systems, Agents, LangGraph, LangChain and Generative AI
-
-🏆 Solved 200+ LeetCode Problems
-
-📈 Codeforces Max Rating: 1106
-
-🔥 Active Competitive Programmer
+* 🎓 B.Tech Artificial Intelligence Student at Newton School of Technology
+* 🤖 Building AI-powered applications using RAG, LLMs, LangChain, and OpenAI APIs
+* 🌐 Developing scalable full-stack applications with React, Next.js, Node.js, and MongoDB
+* 💡 Interested in Generative AI, Intelligent Agents, and Real-World Product Development
+* 🚀 Passionate about solving practical problems through technology
 
 ---
 
-# ⚡ Tech Arsenal
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,mysql" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
-</p>
+## ⚡ Tech Stack
 
 ### AI / ML
 
-* Machine Learning
-* Generative AI
-* LangChain
-* LangGraph
-* OpenAI API
-* RAG Pipelines
-* NLP
-* Vector Databases
-* Embeddings
-* Prompt Engineering
+<img src="https://skillicons.dev/icons?i=python" />
+
+LangChain • LangGraph • OpenAI API • RAG • Vector Embeddings • NLP • Generative AI
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,typescript" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
 ### Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
-</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🧠 AskVerse AI
+### 🧠 AskVerse AI
 
-Intelligent Document Learning Platform
+AI-powered document learning platform using RAG, FAISS, Hugging Face, and semantic search.
 
-### Features
+### 💰 FinSight
 
-* PDF Upload & Analysis
-* RAG Pipeline
-* FAISS Vector Search
-* Semantic Search
-* Transformer Models
-* Interactive Learning Interface
+AI-powered finance advisor delivering personalized financial insights and forecasting.
 
-### Tech Stack
+### 🎬 QuickShow
 
-Python • Streamlit • FAISS • Hugging Face • Sentence Transformers
+Full-stack movie discovery platform built using Next.js, React, MongoDB, and TMDB APIs.
 
----
+### 🚗 GearWise
 
-## 💰 FinSight
-
-AI Personal Finance Simulator & Advisor
-
-### Features
-
-* Expense Tracking
-* Income Management
-* Financial Forecasting
-* AI Budget Recommendations
-* OpenAI Integration
-* Scenario Analysis
-
-### Tech Stack
-
-React • Node.js • Express • MongoDB • OpenAI
+Car comparison platform helping users compare specifications and features.
 
 ---
 
-## 🎬 QuickShow
+## 📊 GitHub Statistics
 
-Marvel Movie Discovery Platform
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanishkadubey16\&show_icons=true\&theme=github_dark\&hide_border=true)
 
-### Features
-
-* Movie Search
-* TMDB Integration
-* Authentication
-* Watchlists
-* Booking System
-* Responsive Design
-
-### Tech Stack
-
-Next.js • React • Node.js • MongoDB
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkadubey16\&layout=compact\&theme=github_dark\&hide_border=true)
 
 ---
 
-# 📊 GitHub Analytics
+## 🔥 GitHub Streak
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanishkadubey16&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkadubey16&layout=compact&theme=tokyonight&hide_border=true"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=kanishkadubey16\&theme=github-dark\&hide_border=true)
 
 ---
 
-# 🔥 Current Streak
+## 🌐 Connect With Me
 
-<img src="https://streak-stats.demolab.com?user=kanishkadubey16&theme=tokyonight&hide_border=true"/>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkadubey16&theme=tokyo-night"/>
-
----
-
-# 🏆 Competitive Programming
-
-* LeetCode: 200+ Problems Solved
-* Codeforces: Max Rating 1106
-* CodeChef Division 3
-* Regular Contest Participant
-
----
-
-# 🎖️ Achievements
-
-🏏 District Level Cricket Representative
-
-📚 State Level Spell Bee Participant
-
-💻 Multiple Full Stack & AI Projects
-
-🚀 Open Source Enthusiast
-
----
-
-# 🌐 Connect With Me
-
-LinkedIn • GitHub • LeetCode • Codeforces • CodeChef • HackerRank • Portfolio
+* LinkedIn
+* Portfolio
+* LeetCode
+* GitHub
 
 ---
 
 <div align="center">
 
-### "Building Intelligent Software That Solves Real Problems"
+### Building intelligent software that creates real-world impact.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
